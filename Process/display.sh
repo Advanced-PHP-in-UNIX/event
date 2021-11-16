@@ -1,0 +1,1 @@
+ps -ef | grep 'Process' | grep -v g
